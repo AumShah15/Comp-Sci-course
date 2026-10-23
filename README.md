@@ -1,1 +1,1 @@
-# Comp-Sci-lessons
+# Comp-Sci course
