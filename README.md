@@ -1,10 +1,10 @@
-# My Python & Cyber Journey 🚀
+# My Python & Cyber Journey 
 
 Hi, I'm a 14-year-old student passionate about computer science and cybersecurity. This is my repository for a custom coding and security course I'm running through with ChatGPT. 
 
 ---
 
-## 📂 Current Projects
+##  Current Projects
 
 ### Module 3: Search & Sort Algorithms
 * `linear_search.py` & `binary_search.py` - Messing around with different ways to search data.
@@ -17,7 +17,7 @@ Hi, I'm a 14-year-old student passionate about computer science and cybersecurit
 
 ---
 
-## 💻 How to Run It
+##  How to Run It
 
 You don't need to install anything extra, just standard Python. Open your terminal, go to the folder, and run:
 
@@ -27,7 +27,7 @@ python filename.py
 
 ---
 
-## 🚀 Future Roadmap
+## Future Roadmap
 
 I'm moving into cybersecurity next! Here is what I am planning to learn and add folders for soon:
 
